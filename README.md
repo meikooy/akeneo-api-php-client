@@ -1,5 +1,11 @@
 # PHP Akeneo PIM API
 
+> [!NOTE]
+> This is a fork of the original [Akeneo API PHP client](https://github.com/akeneo/api-php-client). It updates psr/http-message
+> from ^1.0 to ^2.0 and symfony/options-resolver to ^7.0 it compatible with Shopware 6.6. Please switch back to the original
+> package once the original package is updated. The version this work was created from was v11.3.0.
+
+
 A simple PHP client to use the [Akeneo PIM API](https://api.akeneo.com/).
 
 Matrix compatibility:
